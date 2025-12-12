@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Margherita Pizza",
+    "image_url": "https://images.unsplash.com/photo-1601924582975-4c4f0b8d9f2d"
+  },
+  {
+    "title": "Classic Cheeseburger",
+    "image_url": "https://images.unsplash.com/photo-1550547660-d9450f859349"
+  },
+  {
+    "title": "Sushi Platter",
+    "image_url": "https://images.unsplash.com/photo-1544025162-d76694265947"
+  },
+  {
+    "title": "Pasta Carbonara",
+    "image_url": "https://images.unsplash.com/photo-1523986371872-9d3ba2e2f642"
+  },
+  {
+    "title": "Caesar Salad",
+    "image_url": "https://images.unsplash.com/photo-1566843976391-6f0b0f3f0b1e"
+  },
+  {
+    "title": "Chocolate Lava Cake",
+    "image_url": "https://images.unsplash.com/photo-1542831371-d531d36971e6"
+  },
+  {
+    "title": "Grilled Salmon",
+    "image_url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836"
+  },
+  {
+    "title": "Tacos al Pastor",
+    "image_url": "https://images.unsplash.com/photo-1544025162-6b3f6c1d9c1a"
+  },
+  {
+    "title": "Ramen Bowl",
+    "image_url": "https://images.unsplash.com/photo-1543353071-087092ec3937"
+  },
+  {
+    "title": "Avocado Toast",
+    "image_url": "https://images.unsplash.com/photo-1523986371872-9d3ba2e2f642"
+  }
+]
+

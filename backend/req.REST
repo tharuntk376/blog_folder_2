@@ -1,0 +1,8 @@
+# GET http://localhost:8000/api/gallery
+POST http://localhost:8000/api/gallery/add
+Content-Type: application/json
+
+{
+  "title": "Sunset Over Mountains",
+  "image_url": "https://images.unsplash.com/photo-1550547660-d9450f859349"
+}
