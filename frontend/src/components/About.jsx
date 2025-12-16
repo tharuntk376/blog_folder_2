@@ -1,6 +1,9 @@
 import React from "react";
 import f_3 from "../Images/f-3.jpg";
-import "./Home.css";
+import "./Home.css"
+import Gallery from "./Gallery";
+import Card from "./Card";
+import Footer from "./Footer";
 
 const About = () => {
   return (
@@ -10,9 +13,9 @@ const About = () => {
           <h1 className="a-title mb-5 text-center">About Us</h1>
           <div className="row about-section">
             <div className="col-lg-6">
-              <img className="img-fluid rounded-4" src={f_3} alt="About Us" />
+              <img className="img-fluid rounded-4 h-75" src={f_3} alt="About Us" />
             </div>
-            <div className="col-lg-6 ps-5 mt-md-4 mt-4">
+            <div className="col-lg-6 ps-5 mt-md-4 mt-4 mt-lg-5">
               <h3 className="about-title">In Our Food</h3>
               <p>
                 We are passionate about delivering fresh and healthy food
@@ -24,6 +27,11 @@ const About = () => {
                 menu offers something for every taste. Experience quality,
                 flavor, and convenience all in one place.
               </p>
+               <p>
+               Traditional recipes to modern culinary innovations, our
+                menu offers something for every taste. Experience quality,
+                flavor, and convenience all in one place.
+              </p>
               <button className="btn btn-warning btn-lg rounded-pill mt-3">
                 Learn More
               </button>
@@ -31,6 +39,9 @@ const About = () => {
           </div>
         </div>
       </section>
+      <Gallery />
+      <Card />
+      <Footer />
     </>
   );
 };
